@@ -1,0 +1,8 @@
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+c:\users\ivandevp\documents\visual studio 2015\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
